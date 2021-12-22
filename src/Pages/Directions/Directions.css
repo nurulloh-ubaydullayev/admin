@@ -1,0 +1,9 @@
+.directions {
+  list-style: none;
+}
+
+.direction {
+  padding: 10px 15px;
+  background-color: rgb(196, 144, 144);
+  border-bottom: 1px solid rgb(51, 67, 90);
+}

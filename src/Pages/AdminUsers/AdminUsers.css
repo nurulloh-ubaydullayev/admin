@@ -1,0 +1,29 @@
+.admin__users {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  list-style: none;
+}
+
+.admin__users-item {
+  width: 100%;
+  padding: 20px;
+  background-color: rgb(120, 165, 120);
+  border-bottom: 1px solid rgb(11, 11, 39);
+}
+
+.admin__users-item a {
+  text-decoration: none;
+}
+
+.admin__users-item p {
+  color: rgb(255, 255, 255);
+}
+
+.admin__users-item p span {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(3, 33, 97);
+}
